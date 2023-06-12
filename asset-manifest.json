@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.0ffc3add.css",
+    "main.js": "/shopping/static/js/main.ce1c3508.js",
+    "static/media/bg-img.png": "/shopping/static/media/bg-img.b0b0503df1b2d8f6b2d7.png",
+    "static/media/IvyMode-Italic.ttf": "/shopping/static/media/IvyMode-Italic.ec2fd5390dd3e4d55898.ttf",
+    "static/media/IvyMode-Regular.ttf": "/shopping/static/media/IvyMode-Regular.bd7ba1ec86f59a011535.ttf",
+    "static/media/IvyMode-Bold.ttf": "/shopping/static/media/IvyMode-Bold.7677b5ea0f228c2026ca.ttf",
+    "static/media/2.png": "/shopping/static/media/2.f55ed202eca71a68cd9e.png",
+    "static/media/5.png": "/shopping/static/media/5.99d13356a8686d8e287f.png",
+    "static/media/4.png": "/shopping/static/media/4.0576f6e56a1e348e2f5c.png",
+    "static/media/3.png": "/shopping/static/media/3.7d55a2146e3bdd6a1cc8.png",
+    "static/media/6.png": "/shopping/static/media/6.aa57d90b25dea8d41bbd.png",
+    "static/media/1.png": "/shopping/static/media/1.b1da5a1c362855d956f8.png",
+    "static/media/logomark.svg": "/shopping/static/media/logomark.889f85dc99a5c4c58de27b76cd47a90d.svg",
+    "static/media/cart.svg": "/shopping/static/media/cart.582c00f1995204437f40a9c41bc6c730.svg",
+    "static/media/trash.svg": "/shopping/static/media/trash.fdfa36785a0569da8388fcc736255664.svg",
+    "index.html": "/shopping/index.html",
+    "main.0ffc3add.css.map": "/shopping/static/css/main.0ffc3add.css.map",
+    "main.ce1c3508.js.map": "/shopping/static/js/main.ce1c3508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffc3add.css",
+    "static/js/main.ce1c3508.js"
+  ]
+}
